@@ -1,0 +1,74 @@
+[
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "711f93e0-edcb-4bff-bc77-4469b2eb294f",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  }
+]

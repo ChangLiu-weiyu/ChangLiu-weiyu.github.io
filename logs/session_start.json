@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "hook_event_name": "SessionStart",
+    "source": "startup",
+    "model": "gpt-5.5"
+  }
+]

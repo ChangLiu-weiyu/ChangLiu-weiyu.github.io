@@ -1,0 +1,20 @@
+[
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "711f93e0-edcb-4bff-bc77-4469b2eb294f",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "\u6211\u73b0\u5728\u60f3\u8981\u5236\u4f5c\u4e2a\u4eba\u7f51\u9875\uff0c\u8bf7\u8bfb\u53d6\u5df2\u6709\u9879\u76ee\u4ee3\u7801\uff0c\u544a\u8bc9\u6211\u63a5\u4e0b\u6765\u8be5\u600e\u4e48\u89c4\u5212\uff0c\u73b0\u6709\u7684\u4ee3\u7801\u4ed3\u5e93\u662f\u6211clone\u4e0b\u6765\u7528\u4f5c\u4e8c\u6b21\u5f00\u53d1\u7684\uff0c\u8bf7\u95ee\u4e0b\u4e00\u6b65\u600e\u4e48\u529e"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "794e272f-326f-40ea-9bc5-ac263ca48926",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "\u7efc\u5408\u4e2a\u4eba\u4e3b\u9875"
+  }
+]
