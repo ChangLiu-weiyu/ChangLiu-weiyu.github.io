@@ -1,12 +1,10 @@
 (function () {
-  var storageKey = "site-language";
   var defaultLanguage = "en";
-  var currentLanguage = localStorage.getItem(storageKey) || defaultLanguage;
+  var currentLanguage = defaultLanguage;
 
   function applyLanguage(language) {
     document.documentElement.setAttribute("data-language", language);
     document.documentElement.setAttribute("lang", language === "zh" ? "zh-CN" : "en");
-    localStorage.setItem(storageKey, language);
 
     var translatableItems = document.querySelectorAll("[data-i18n-en][data-i18n-zh]");
     for (var i = 0; i < translatableItems.length; i += 1) {

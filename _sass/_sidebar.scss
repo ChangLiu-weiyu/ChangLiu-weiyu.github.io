@@ -71,6 +71,10 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    padding: 0.7rem;
+    border: 1px solid mix(#fff, $border-color, 35%);
+    border-radius: $border-radius;
+    background: linear-gradient(180deg, rgba(216, 67, 21, 0.05), rgba(255, 255, 255, 0) 42%);
   }
   display: flex;
   justify-content: flex-start;
@@ -98,7 +102,8 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 2px solid rgba(216, 67, 21, 0.22);
+      box-shadow: 0 8px 22px rgba(216, 67, 21, 0.10);
     }
   }
 }
@@ -121,6 +126,7 @@
 
 .author__name {
   margin: 0;
+  white-space: nowrap;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -130,7 +136,7 @@
 
 .sidebar .author__name {
   @include breakpoint($medium) {
-    font-size: $type-size-3;
+    font-size: $type-size-4;
   }
   font-family: $sans-serif;
   font-size: $type-size-4;
@@ -138,11 +144,22 @@
 
 .author__bio {
   margin: 0;
+  color: mix(#fff, $text-color, 18%);
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
   }
+}
+
+.author__tagline {
+  margin-bottom: 1em;
+  padding: 0.75rem;
+  border-left: 3px solid #d84315;
+  border-radius: $border-radius;
+  background: rgba(216, 67, 21, 0.06);
+  color: mix(#fff, $text-color, 16%);
+  white-space: normal !important;
 }
 
 .author__urls-wrapper {
@@ -233,6 +250,16 @@
     }
   }
 
+  .author__tagline {
+    margin-bottom: 1em;
+    padding: 0.6rem;
+    border-left: 3px solid #d84315;
+    border-radius: $border-radius;
+    background: rgba(216, 67, 21, 0.06);
+    color: mix(#fff, $text-color, 16%);
+    white-space: normal !important;
+  }
+
   li {
     white-space: nowrap;
   }
@@ -247,10 +274,19 @@
     font-size: $type-size-5;
     text-decoration: none;
 
+    i {
+      color: #d96a34;
+    }
+
     &:hover {
-      text-decoration: underline;
+      color: #bf360c;
+      text-decoration: none;
     }
   }
+}
+
+.author__urls li > i {
+  color: #d96a34;
 }
 
 .author__urls_sm{

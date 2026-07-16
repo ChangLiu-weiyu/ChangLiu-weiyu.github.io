@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chang Liu | 刘畅"
-description              : "Personal homepage of Chang Liu: projects, research notes, writing, experience, and contact information."
+description              : "AI applications, product building, digital humanities, and entrepreneurship communities."
 repository               : "ChangLiu-weiyu/ChangLiu-weiyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chang Liu | 刘畅"
   avatar           : "images/profile.jpg"
-  bio              : "Personal homepage"
-  location         : "China"
+  bio              : "AI applications · Product building · Digital humanities"
+  location         : "Wuhan, China"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "lequyennhien@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "nhien-lequyen"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

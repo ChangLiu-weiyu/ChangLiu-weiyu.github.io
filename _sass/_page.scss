@@ -111,6 +111,73 @@
     font-size: $type-size-6;
   }
 
+  .section-icon {
+    margin-right: 0.35rem;
+    color: #d84315;
+  }
+
+  .section-icon--small {
+    color: #e66a2c;
+    font-size: 0.85em;
+  }
+
+  .inline-icon {
+    width: 1.25em;
+    margin-right: 0.25rem;
+    color: #d96a34;
+    text-align: center;
+  }
+
+  h1 .section-icon {
+    color: #d84315;
+  }
+
+  h2 .section-icon {
+    color: #e66a2c;
+  }
+
+  a:hover .inline-icon,
+  li:hover .inline-icon {
+    color: #bf360c;
+  }
+
+  .cv-list {
+    margin: 0 0 1.5em;
+  }
+
+  .cv-item {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    margin: 0 0 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .cv-item__main p:last-child {
+    margin-bottom: 0;
+  }
+
+  .cv-item__date {
+    color: mix(#fff, $text-color, 35%);
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
+    line-height: 1.5;
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  @include breakpoint(max-width $small) {
+    .cv-item {
+      display: block;
+    }
+
+    .cv-item__date {
+      margin-top: 0.25rem;
+      text-align: left;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;

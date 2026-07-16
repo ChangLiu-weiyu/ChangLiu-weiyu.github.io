@@ -8,13 +8,13 @@ main:
     title_zh: "项目"
     url: "/#projects"
 
-  - title_en: "Writing"
-    title_zh: "写作"
-    url: "/#writing"
-
   - title_en: "Experience"
     title_zh: "经历"
     url: "/#experience"
+
+  - title_en: "Writing"
+    title_zh: "写作"
+    url: "/#writing"
 
   - title_en: "CV"
     title_zh: "简历"
