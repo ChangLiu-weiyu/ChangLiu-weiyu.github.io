@@ -257,7 +257,7 @@ Coming soon.
 - <i class="fas fa-envelope inline-icon" aria-hidden="true"></i> Email: [serenesoul@whu.edu.cn](mailto:serenesoul@whu.edu.cn)
 - <i class="fab fa-google inline-icon" aria-hidden="true"></i> Gmail: [lequyennhien@gmail.com](mailto:lequyennhien@gmail.com)
 - <i class="fab fa-github inline-icon" aria-hidden="true"></i> GitHub: [ChangLiu-weiyu](https://github.com/ChangLiu-weiyu)
-- <i class="fab fa-linkedin inline-icon" aria-hidden="true"></i> LinkedIn: [nhien lequyen](https://www.linkedin.com/in/nhien-lequyen/)
+- <i class="fab fa-linkedin inline-icon" aria-hidden="true"></i> LinkedIn: [nhien lequyen](https://www.linkedin.com/in/nhien-lequyen-528468420/)
 - <i class="fas fa-code-branch inline-icon" aria-hidden="true"></i> Gitee: [wei-rain-light-dust](https://gitee.com/wei-rain-light-dust)
 - <i class="fas fa-map-marker-alt inline-icon" aria-hidden="true"></i> Location: Wuhan, China
 
@@ -268,7 +268,7 @@ Coming soon.
 - <i class="fas fa-envelope inline-icon" aria-hidden="true"></i> 邮箱：[serenesoul@whu.edu.cn](mailto:serenesoul@whu.edu.cn)
 - <i class="fab fa-google inline-icon" aria-hidden="true"></i> Gmail：[lequyennhien@gmail.com](mailto:lequyennhien@gmail.com)
 - <i class="fab fa-github inline-icon" aria-hidden="true"></i> GitHub：[ChangLiu-weiyu](https://github.com/ChangLiu-weiyu)
-- <i class="fab fa-linkedin inline-icon" aria-hidden="true"></i> LinkedIn：[nhien lequyen](https://www.linkedin.com/in/nhien-lequyen/)
+- <i class="fab fa-linkedin inline-icon" aria-hidden="true"></i> LinkedIn：[nhien lequyen](https://www.linkedin.com/in/nhien-lequyen-528468420/)
 - <i class="fas fa-code-branch inline-icon" aria-hidden="true"></i> Gitee：[wei-rain-light-dust](https://gitee.com/wei-rain-light-dust)
 - <i class="fas fa-map-marker-alt inline-icon" aria-hidden="true"></i> 所在地：武汉，中国
 

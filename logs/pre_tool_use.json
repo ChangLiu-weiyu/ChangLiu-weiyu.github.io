@@ -1062,5 +1062,61 @@
       "replace_all": false
     },
     "tool_use_id": "call_IbnTebvWxhEp0JGevXCiXo00"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "721d6b1d-86d8-48ad-a9d2-f47aa677da8d",
+    "permission_mode": "auto",
+    "effort": {
+      "level": "high"
+    },
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Read",
+    "tool_input": {
+      "file_path": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io\\_config.yml",
+      "offset": 40,
+      "limit": 12
+    },
+    "tool_use_id": "call_IHg8ae5YFKQiS4jtxsibV8zU"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "721d6b1d-86d8-48ad-a9d2-f47aa677da8d",
+    "permission_mode": "auto",
+    "effort": {
+      "level": "high"
+    },
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io\\_config.yml",
+      "old_string": "  linkedin         : \"nhien-lequyen\"",
+      "new_string": "  linkedin         : \"nhien-lequyen-528468420\"",
+      "replace_all": false
+    },
+    "tool_use_id": "call_0PIpIcNe7byUubr2X8wA7iKJ"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "721d6b1d-86d8-48ad-a9d2-f47aa677da8d",
+    "permission_mode": "auto",
+    "effort": {
+      "level": "high"
+    },
+    "hook_event_name": "PreToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io\\_pages\\about.md",
+      "old_string": "https://www.linkedin.com/in/nhien-lequyen/",
+      "new_string": "https://www.linkedin.com/in/nhien-lequyen-528468420/",
+      "replace_all": true
+    },
+    "tool_use_id": "call_46W6aKZdu9DzXLzd2EVEyrqg"
   }
 ]
