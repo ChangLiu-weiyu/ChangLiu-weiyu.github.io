@@ -16,5 +16,68 @@
     "permission_mode": "default",
     "hook_event_name": "UserPromptSubmit",
     "prompt": "\u7efc\u5408\u4e2a\u4eba\u4e3b\u9875"
+  },
+  {
+    "session_id": "33a10e4e-ae2e-419d-876f-b91e56a46be3",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\D--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\33a10e4e-ae2e-419d-876f-b91e56a46be3.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "fb7828eb-5675-489c-acf1-958d58f4882d",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "\u8bf7\u95ee\u4e0b\u4e00\u6b65\u5f00\u53d1\u52a8\u4f5c\u662f\u4ec0\u4e48"
+  },
+  {
+    "session_id": "7b4d02d7-476a-4e7e-b867-2b072d1576ca",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\7b4d02d7-476a-4e7e-b867-2b072d1576ca.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "41a6fb90-1fc7-4497-8591-9579d4e89ecf",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "<ide_opened_file>The user opened the file d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io\\assets\\css\\academicons.min.css in the IDE. This may or may not be related to the current task.</ide_opened_file>\n\u7487\u70fd\u68f6\u6d93\u5b29\u7af4\u59dd\u30e7\u6b91\u5bee\udc80\u9359\u621d\u59e9\u6d63\u6ec4\u69f8\u6d60\udc80\u6d94\udc88"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "3fb7119e-36a9-4361-99ac-ecb2e3125a0a",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "<ide_opened_file>The user opened the file d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io\\assets\\css\\academicons.min.css in the IDE. This may or may not be related to the current task.</ide_opened_file>\n\u7487\u75af\u7e58\u741b\u5c7c\u7b05\u6d93\udc80\u59dd\udca5"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "4d36425b-ed86-43f1-a1d2-5b5d0e67751e",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "\u7487\u70fd\u68f6\u6d63\u72b3\u69f8\u935a\ufe40\u5f72\u6d60\u30e5\u7568\u7441\udc85 Ruby"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "dc785f7c-736b-44ff-91af-34ff95bb7e79",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "\u7487\u5cf0\u7568\u7441\udc85"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "c3dabdbe-38a3-4ead-851f-e7fdea60c3f8",
+    "permission_mode": "default",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "<ide_opened_file>The user opened the file \\temp\\readonly\\PowerShell tool output (yvtlfm) in the IDE. This may or may not be related to the current task.</ide_opened_file>\n\u7487\u5cf0\u7568\u7441\u546d\u6e6aD\u9429\udc98"
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "0c45dc85-78e0-4f7a-a684-ea2533c7e6b6",
+    "permission_mode": "auto",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "\u935a\udcaf\u9354\u3126\u6e70\u9366\u7248\u6e47\u9354\uff04\u6e45\u6924\u7538\u6f70\u93c1\u581f\u7049"
   }
 ]

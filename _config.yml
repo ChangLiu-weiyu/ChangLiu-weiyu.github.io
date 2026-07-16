@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chang Liu | 刘畅"
-  avatar           : "images/profile.jpg"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Personal homepage"
   location         : "China"
   employer         :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: Asia/Shanghai # Enable only if tzinfo-data is available on Windows.
 
 
 # Plugins

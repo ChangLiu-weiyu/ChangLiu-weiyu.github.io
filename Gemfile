@@ -16,7 +16,13 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# Optional Windows file watcher. Disabled because wdm 0.1.1 does not build reliably on modern RubyInstaller.
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# Timezone data is not required when _config.yml does not force a timezone.
+
+# Required by Jekyll 3.x when running on Ruby 3.x.
+gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
