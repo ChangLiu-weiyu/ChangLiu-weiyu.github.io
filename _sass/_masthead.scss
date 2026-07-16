@@ -79,10 +79,19 @@
   white-space: nowrap;
   cursor: pointer;
 
-  &:hover {
+  &:hover,
+  &:focus {
     color: $masthead-link-color-hover;
     border-color: mix(#fff, $primary-color, 50%);
+    outline: 0;
   }
+}
+
+.masthead .greedy-nav a:focus {
+  border-radius: $border-radius;
+  background-color: mix(#fff, $primary-color, 92%);
+  box-shadow: 0 0 0 1px $border-color;
+  outline: 0;
 }
 
 html[data-language="zh"] [data-lang="en"],

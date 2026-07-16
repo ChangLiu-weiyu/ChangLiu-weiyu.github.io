@@ -1699,5 +1699,65 @@
     },
     "tool_use_id": "call_TSaLe0HXXB7j4C7LaMK8oSCA",
     "duration_ms": 24
+  },
+  {
+    "session_id": "ed8fd611-887c-4822-8818-1d7fb9c4ea7e",
+    "transcript_path": "C:\\Users\\liuch\\.claude\\projects\\d--Users-liuch-Desktop-code-ChangLiu-weiyu-github-io\\ed8fd611-887c-4822-8818-1d7fb9c4ea7e.jsonl",
+    "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "prompt_id": "08e8c969-9321-4e03-86a7-394440b911b2",
+    "permission_mode": "auto",
+    "effort": {
+      "level": "high"
+    },
+    "hook_event_name": "PostToolUse",
+    "tool_name": "Edit",
+    "tool_input": {
+      "file_path": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io\\_sass\\_masthead.scss",
+      "old_string": ".masthead__language-toggle {\n  flex: 0 0 auto;\n  padding: 0.4rem 0.7rem;\n  border: 1px solid $border-color;\n  border-radius: $border-radius;\n  background-color: #fff;\n  color: $masthead-link-color;\n  font-family: $sans-serif-narrow;\n  font-size: $type-size-6;\n  line-height: 1;\n  white-space: nowrap;\n  cursor: pointer;\n\n  &:hover {\n    color: $masthead-link-color-hover;\n    border-color: mix(#fff, $primary-color, 50%);\n  }\n}\n\nhtml[data-language=\"zh\"] [data-lang=\"en\"],",
+      "new_string": ".masthead__language-toggle {\n  flex: 0 0 auto;\n  padding: 0.4rem 0.7rem;\n  border: 1px solid $border-color;\n  border-radius: $border-radius;\n  background-color: #fff;\n  color: $masthead-link-color;\n  font-family: $sans-serif-narrow;\n  font-size: $type-size-6;\n  line-height: 1;\n  white-space: nowrap;\n  cursor: pointer;\n\n  &:hover,\n  &:focus {\n    color: $masthead-link-color-hover;\n    border-color: mix(#fff, $primary-color, 50%);\n    outline: 0;\n  }\n}\n\n.masthead .greedy-nav a:focus {\n  border-radius: $border-radius;\n  background-color: mix(#fff, $primary-color, 92%);\n  box-shadow: 0 0 0 1px $border-color;\n  outline: 0;\n}\n\nhtml[data-language=\"zh\"] [data-lang=\"en\"],",
+      "replace_all": false
+    },
+    "tool_response": {
+      "filePath": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io\\_sass\\_masthead.scss",
+      "oldString": ".masthead__language-toggle {\n  flex: 0 0 auto;\n  padding: 0.4rem 0.7rem;\n  border: 1px solid $border-color;\n  border-radius: $border-radius;\n  background-color: #fff;\n  color: $masthead-link-color;\n  font-family: $sans-serif-narrow;\n  font-size: $type-size-6;\n  line-height: 1;\n  white-space: nowrap;\n  cursor: pointer;\n\n  &:hover {\n    color: $masthead-link-color-hover;\n    border-color: mix(#fff, $primary-color, 50%);\n  }\n}\n\nhtml[data-language=\"zh\"] [data-lang=\"en\"],",
+      "newString": ".masthead__language-toggle {\n  flex: 0 0 auto;\n  padding: 0.4rem 0.7rem;\n  border: 1px solid $border-color;\n  border-radius: $border-radius;\n  background-color: #fff;\n  color: $masthead-link-color;\n  font-family: $sans-serif-narrow;\n  font-size: $type-size-6;\n  line-height: 1;\n  white-space: nowrap;\n  cursor: pointer;\n\n  &:hover,\n  &:focus {\n    color: $masthead-link-color-hover;\n    border-color: mix(#fff, $primary-color, 50%);\n    outline: 0;\n  }\n}\n\n.masthead .greedy-nav a:focus {\n  border-radius: $border-radius;\n  background-color: mix(#fff, $primary-color, 92%);\n  box-shadow: 0 0 0 1px $border-color;\n  outline: 0;\n}\n\nhtml[data-language=\"zh\"] [data-lang=\"en\"],",
+      "originalFile": "/* ==========================================================================\n   MASTHEAD\n   ========================================================================== */\n\n.masthead {\n  position: sticky;\n  top: 0;\n  background-color: white;\n  border-bottom: 1px solid $border-color;\n  -webkit-animation: intro 0.3s both;\n          animation: intro 0.3s both;\n  -webkit-animation-delay: 0.15s;\n          animation-delay: 0.15s;\n  z-index: 20;\n\n  &__inner-wrap {\n    @include container;\n    @include clearfix;\n    display: flex;\n    align-items: center;\n    gap: 0.75rem;\n    padding: .5em;\n    font-family: $sans-serif-narrow;\n\n    @include breakpoint($x-large) {\n      max-width: $x-large;\n    }\n\n    nav {\n      z-index: 10;\n    }\n\n    a {\n      text-decoration: none;\n    }\n  }\n}\n\n.masthead__menu {\n  flex: 1 1 auto;\n  min-width: 0;\n\n  ul {\n    margin: 0;\n    padding: 0;\n    clear: both;\n    list-style-type: none;\n  }\n}\n\n.masthead__menu-home-item {\n  @include breakpoint($medium) {\n    display: block !important;\n  }\n  display: none !important;\n}\n\n.masthead__menu-item {\n  display: block;\n  list-style-type: none;\n  white-space: nowrap;\n\n  &--lg {\n    padding-right: 2em;\n    font-weight: 700;\n  }\n}\n\n.masthead__language-toggle {\n  flex: 0 0 auto;\n  padding: 0.4rem 0.7rem;\n  border: 1px solid $border-color;\n  border-radius: $border-radius;\n  background-color: #fff;\n  color: $masthead-link-color;\n  font-family: $sans-serif-narrow;\n  font-size: $type-size-6;\n  line-height: 1;\n  white-space: nowrap;\n  cursor: pointer;\n\n  &:hover {\n    color: $masthead-link-color-hover;\n    border-color: mix(#fff, $primary-color, 50%);\n  }\n}\n\nhtml[data-language=\"zh\"] [data-lang=\"en\"],\nhtml[data-language=\"en\"] [data-lang=\"zh\"] {\n  display: none !important;\n}\n\nhtml:not([data-language]) [data-lang=\"zh\"] {\n  display: none !important;\n}\n\n",
+      "structuredPatch": [
+        {
+          "oldStart": 79,
+          "oldLines": 12,
+          "newStart": 79,
+          "newLines": 21,
+          "lines": [
+            "   white-space: nowrap;",
+            "   cursor: pointer;",
+            " ",
+            "-  &:hover {",
+            "+  &:hover,",
+            "+  &:focus {",
+            "     color: $masthead-link-color-hover;",
+            "     border-color: mix(#fff, $primary-color, 50%);",
+            "+    outline: 0;",
+            "   }",
+            " }",
+            " ",
+            "+.masthead .greedy-nav a:focus {",
+            "+  border-radius: $border-radius;",
+            "+  background-color: mix(#fff, $primary-color, 92%);",
+            "+  box-shadow: 0 0 0 1px $border-color;",
+            "+  outline: 0;",
+            "+}",
+            "+",
+            " html[data-language=\"zh\"] [data-lang=\"en\"],",
+            " html[data-language=\"en\"] [data-lang=\"zh\"] {",
+            "   display: none !important;"
+          ]
+        }
+      ],
+      "userModified": false,
+      "replaceAll": false
+    },
+    "tool_use_id": "call_jc2dWU0hujsRTkspjjUnUytf",
+    "duration_ms": 17
   }
 ]
