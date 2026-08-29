@@ -57,5 +57,32 @@
     "cwd": "d:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
     "hook_event_name": "SessionStart",
     "source": "resume"
+  },
+  {
+    "session_id": "01a04bcf-fdbe-7870-af99-c33692b73631",
+    "transcript_path": "C:\\Users\\liuch\\.codex\\sessions\\2026\\08\\29\\rollout-2026-08-29T12-38-37-01a04bcf-fdbe-7870-af99-c33692b73631.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "hook_event_name": "SessionStart",
+    "model": "gpt-5.5",
+    "permission_mode": "default",
+    "source": "startup"
+  },
+  {
+    "session_id": "01a04bd0-2472-7113-9a29-8763dc030baa",
+    "transcript_path": null,
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "hook_event_name": "SessionStart",
+    "model": "gpt-5.6-terra",
+    "permission_mode": "bypassPermissions",
+    "source": "startup"
+  },
+  {
+    "session_id": "01a04bcf-fdbe-7870-af99-c33692b73631",
+    "transcript_path": "\\\\?\\C:\\Users\\liuch\\.codex\\sessions\\2026\\08\\29\\rollout-2026-08-29T12-38-37-01a04bcf-fdbe-7870-af99-c33692b73631.jsonl",
+    "cwd": "D:\\Users\\liuch\\Desktop\\code\\ChangLiu-weiyu.github.io",
+    "hook_event_name": "SessionStart",
+    "model": "gpt-5.5",
+    "permission_mode": "default",
+    "source": "resume"
   }
 ]

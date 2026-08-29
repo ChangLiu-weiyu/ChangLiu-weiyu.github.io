@@ -4,9 +4,9 @@ main:
     title_zh: "关于"
     url: "/#about"
 
-  - title_en: "Projects"
-    title_zh: "项目"
-    url: "/#projects"
+  - title_en: "Portfolio"
+    title_zh: "作品集"
+    url: "/#portfolio"
 
   - title_en: "Experience"
     title_zh: "经历"
